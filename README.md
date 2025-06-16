@@ -74,8 +74,3 @@ This tool was built to solve a real challenge in the inflight entertainment indu
 4. Check the output folders for copied images and open the Excel tracker for results
 
 ---
-
-## 📬 Interested?
-
-This is one of several tools I’ve developed to improve data and content workflows using Python and Excel. Feel free to check out the other projects in this portfolio or reach out to discuss automation in media workflows.
-
