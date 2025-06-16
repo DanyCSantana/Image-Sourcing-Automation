@@ -62,12 +62,3 @@ This tool was built to solve a real challenge in the inflight entertainment indu
 - 📎 Made follow-ups with content providers faster and more consistent  
 
 ---
-
-## 🧪 How to Run
-
-1. Prepare your Excel file with movie titles (and optionally, seasons and episodes)
-2. Place it in the configured input directory
-3. Run the script: `python ImageManagementScript.py`
-4. Check the output folders for copied images and open the Excel tracker for results
-
----
