@@ -9,7 +9,7 @@
 
 ## 📌 Objective
 
-Efficiently source poster and still images requested by airlines by searching a large database of nearly **30,000 images** spread across **800+ distributor folders**, using Python to automate what used to be a fully manual process. This tool reduced the workload by over **90%**, saving hours of work each week.
+Efficiently source poster and still images requested by airlines by searching a large database of nearly **30,000 images** spread across **800+ distributor folders for movies and TV, Posters and Stills**, using Python to automate what used to be a fully manual process. This tool reduced the workload by over **90%**, saving hours of work each cycle update.
 
 ---
 
